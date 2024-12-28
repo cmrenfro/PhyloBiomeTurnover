@@ -1,6 +1,8 @@
 # PhyloBiomeTurnover
 Repository associated with: "Phylogenetic turnover in biomes is determined by environmental harshness, geographic distance, and climate stability"
 
+[![DOI](https://zenodo.org/badge/909474701.svg)](https://doi.org/10.5281/zenodo.14567437)
+
 *Manuscript Authors: Cecile Renfro, Lydia Morley, Daniel Spalink*
 
 *Contact: crenfro\@tamu.edu*
