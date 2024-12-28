@@ -11,7 +11,9 @@ This repository includes resources for our manuscript pertaining to data manipul
 
 The dependencies required to run this script are located at the beginning of the script. Note that while the code is able to run from start to finish on a local machine using a small dataset, it is recommended to break the code into manageable chunks when using a large dataset. The script outputs many files throughout to simplify this process.
 
-This repository also includes two additional R scripts ("phylogdm_functions_sim.R" and "taxgdm_functions_sim.R"), which correspond to the modified phylogenetic and taxonomic formatsitepair functions, respectively. These scripts set up the functions to create a site-pair table for input into the gdm() function in the *gdm* package, but are modified to calculate phylogenetic or taxonomic Simpson's beta diversity. Raster files associated with predictor variables (except 19 Worldclim variables, linked below) are included in this repository for simplicity. Please see manuscript text for citations.
+This repository also includes two additional R scripts ("phylogdm_functions_sim.R" and "taxgdm_functions_sim.R"), which correspond to the modified phylogenetic and taxonomic formatsitepair functions, respectively. These scripts set up the functions to create a site-pair table for input into the gdm() function in the *gdm* package, but are modified to calculate phylogenetic or taxonomic Simpson's beta diversity. 
+
+Raster files associated with predictor variables (except 19 Worldclim variables, linked below) are included in this repository for simplicity. Please see manuscript text for citations.
 
 The analyses with the full GBIF dataset were run on a supercomputer using R version 4.2.2 (2022-10-31) "Innocent and Trusting".
 
